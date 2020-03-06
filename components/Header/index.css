@@ -1,0 +1,24 @@
+.header{
+  width: 100%;
+  height: auto;
+  background-color: #fff;
+}
+
+.logo{
+  margin-left: 10px;
+}
+.slogan{
+  font-size: 18px;
+  background-image: -webkit-linear-gradient(top,red,#fd8403,yellow);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.inline{
+  display: inline !important;
+}
+.ant-menu-horizontal{
+  border-bottom: 0 none !important;
+}
+.row{
+  border-bottom: 1px solid #f0f0f0;
+}
